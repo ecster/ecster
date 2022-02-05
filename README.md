@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to build an Android app with Java
 - 💞️ I’m looking to collaborate on Android apps and translations to Hungarian
 - 📫 How to reach me: message me on Github
+- 😸 My cat is called Béla Belfegor Binman, Destroyer of Worlds and Beacon of Chaos
 
 <!---
 ecster/ecster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
